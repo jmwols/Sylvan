@@ -1,0 +1,49 @@
+@charset "utf-8";
+body {
+	margin: 0;
+	padding: 0;
+}
+
+td, th {
+	color: #99CCCC;
+}
+
+h1 {
+	color: #06F;
+}
+
+h2 {
+	color: #00C;
+}
+
+h3, h4 {
+	color: #06F;
+}
+a
+{
+	color: #D6D6D6;
+}
+
+#aug1
+{
+	display:block;
+	margin:auto;
+}
+.banner
+{
+	display:block;
+	margin:auto;
+}
+.mem
+{
+	display:block;
+	margin:auto;
+}
+#textarea
+{
+	font-size:24px;
+	alignment-adjust:central;
+	text-align:center;
+	
+		
+}
